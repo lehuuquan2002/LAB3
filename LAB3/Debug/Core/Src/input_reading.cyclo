@@ -1,0 +1,5 @@
+../Core/Src/input_reading.c:14:6:button_init	2
+../Core/Src/input_reading.c:27:5:isButtonPressed	3
+../Core/Src/input_reading.c:39:6:subKeyProcess	1
+../Core/Src/input_reading.c:44:6:set_button	2
+../Core/Src/input_reading.c:53:6:getKeyInput	6

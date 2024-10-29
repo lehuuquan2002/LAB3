@@ -1,0 +1,5 @@
+../Core/Src/light_traffic.c:13:6:led_red_and_green	1
+../Core/Src/light_traffic.c:19:6:led_red_and_yellow	1
+../Core/Src/light_traffic.c:25:6:led_yellow_and_red	1
+../Core/Src/light_traffic.c:31:6:led_green_and_red	1
+../Core/Src/light_traffic.c:38:6:updateTrafficLight	10
